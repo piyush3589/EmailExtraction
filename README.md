@@ -18,4 +18,9 @@ df = pd.DataFrame(results)
 df.to_csv('output.csv', index=False)
 ```
 
-## Output
+## Skills Demonstrated
+✅ Regex pattern matching
+✅ Data extraction
+✅ Categorization logic
+✅ Confidence metrics
+✅ Batch processing
